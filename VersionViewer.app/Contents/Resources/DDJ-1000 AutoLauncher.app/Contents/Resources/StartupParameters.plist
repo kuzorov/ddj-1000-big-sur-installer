@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.pioneerdj.DDJ-1000.autolauncher</string>
+	<key>CFBundleVersion</key>
+	<string>1.1.0</string>
+	<key>Description</key>
+	<string>DDJ-1000 AutoSetup</string>
+	<key>OrderPreference</key>
+	<string>None</string>
+	<key>Provides</key>
+	<array>
+		<string>DDJ-1000 AutoSetup</string>
+	</array>
+	<key>Uses</key>
+	<array>
+		<string>Network</string>
+		<string>Disks</string>
+		<string>Resolver</string>
+	</array>
+</dict>
+</plist>
